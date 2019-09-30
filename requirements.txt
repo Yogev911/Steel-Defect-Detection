@@ -1,0 +1,5 @@
+Pillow==6.1.0
+keras==2.2.5
+matplotlib==3.1.1
+numpy==1.17.2
+pandas==0.25.1
